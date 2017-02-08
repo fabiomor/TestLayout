@@ -2,5 +2,4 @@
     <string name="app_name">TestLayout</string>
     <string name="edit_message">Enter Text Here</string>
     <string name="button_send">Send</string>
-
 </resources>
