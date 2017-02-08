@@ -8,7 +8,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String EXTRA_MESSAGE = "";
+    public final static String EXTRA_MESSAGE = "com.fabio.testing.TestLayout.MESSAGE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
